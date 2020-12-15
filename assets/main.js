@@ -2,9 +2,9 @@
 // Bonus: Aggiungere un'immagine presa anch'essa da un data.
 
 var app = new Vue({
-    el: "#root",
-    data: {
-      message: "Welcome Vue",
-      imgURL: "https:/vuejs.org/images/logo.png"
-    }
+  el: "#root",
+  data: {
+    message: "Welcome Vue",
+    imgUrl: "https://vuejs.org/images/logo.png"
+  }
 })
